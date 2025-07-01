@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me lepetre@yahoo.fr
+slepetre@amazon.fr
 
 <!---
 Sam9682/Sam9682 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
