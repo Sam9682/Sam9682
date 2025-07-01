@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sam9682
 - 👀 I’m interested in golf
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently python developer with genAI / ML
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me lepetre@yahoo.fr
 slepetre@amazon.fr
