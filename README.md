@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sam9682
-- 👀 I’m interested in golf
+- 👀 I’m AWS Cloud Architect specialist in Cost Optim & FinOps, and index 16 in golf
 - 🌱 I’m currently python developer with genAI / ML
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me lepetre@yahoo.fr
