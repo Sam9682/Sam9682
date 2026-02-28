@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me lepetre@yahoo.fr / samuel.lepetre@ovhcloud.com
 - 🚀 Developer of :
-    * https://www.softfluid.fr
+    * https://softfluid.fr
     * https://hypervisia.fr
   
 <!---
